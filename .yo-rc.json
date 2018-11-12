@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplicationH2",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8083,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "MjYwNDIwODNjYTc0M2Q3MzhkMGU5YjM5MzI3OGMxNmU0MjZkMTA1NGVjY2I2YWE4ZDIzZGNiNmM3ZDI4OWM3YmZmZmRiOTQ1MWIzM2NmMTQxOTgzODdjMWEyZTA4NTM0NWM5NGVjMTc4MTViZTQ5ODI4NzY5ODAxZDBkMmQ5MjM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "spacedreamer1984",
+  "repository-name": "jhipster-sample-application-h2"
+}
